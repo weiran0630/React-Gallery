@@ -15,4 +15,10 @@
 .image-list img {
   width: 250px;
 }
+
+@media screen and (max-width: 767px) {
+  .image-list {
+    margin-right: 2rem !important;
+  }
+}
 /*# sourceMappingURL=ImageList.css.map */

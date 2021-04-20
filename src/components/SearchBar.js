@@ -2,9 +2,11 @@ import React from "react";
 
 class SearchBar extends React.Component {
   state = {
-    term: "wallpaper",
+    term: "random",
   };
-
+  componentDidMount() {
+    this.props.onSubmit(this.state.term);
+  }
   // arrow function automatically bind "this" to the instance of SearchBar
   onFormSubmit = (e) => {
     e.preventDefault();
