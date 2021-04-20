@@ -2,7 +2,7 @@ import React from "react";
 
 class SearchBar extends React.Component {
   state = {
-    term: "",
+    term: "wallpaper",
   };
 
   // arrow function automatically bind "this" to the instance of SearchBar
