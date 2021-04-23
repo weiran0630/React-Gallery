@@ -1,6 +1,6 @@
 # Preview this application
 
-This application is hosted on [Vercel](https://react-gallery-umber.vercel.app/)
+This application is hosted on [Vercel](https://react-widgets-beta.vercel.app/)
 
 # Getting Started with Create React App
 
